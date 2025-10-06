@@ -1,4 +1,4 @@
-# 🚀 MySQL Raft Operator - 无脑裂最终一致性高可用集群
+# 🚀 WXDB Raft Operator - 无脑裂最终一致性高可用集群
 
 <div align="center">
 
